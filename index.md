@@ -5,6 +5,18 @@ title: Home
 
 <!-- <img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%"> -->
 
+<div id="viewport"> 
+        <a href="#">
+        <i><img src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90px" height="90px" alt="" /></i>
+        <span><h2>
+        Georgios Mavromatidis
+        </h2>
+        <h3>
+        Postdoctoral researcher, ETH Zürich
+        </h3></span>
+    </a>
+</div>
+
 <h1>Georgios Mavromatidis</h1>
 
 <h3>Postdoctoral researcher, ETH Zurich</h3>
