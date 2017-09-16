@@ -17,7 +17,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage. </div>
+<div style="text-align: justify"> Gruezi! I am a PhD student in the <a href="http://carmeliet.ethz.ch/">Chair of Building Physics</a> at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage. </div>
 
 Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
@@ -35,7 +35,7 @@ Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] w
 <!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
 Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>. -->
 
-[Chair of Building Physics]: http://carmeliet.arch.ethz.ch/
+[Chair of Building Physics]: http://carmeliet.ethz.ch/
 [ETH Zurich]: https://www.ethz.ch/en.html
 [Aristotle University of Thessaloniki]: http://www.auth.gr/
 [Mechanical Engineering]: http://www.meng.auth.gr/
