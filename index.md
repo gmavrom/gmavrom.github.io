@@ -7,12 +7,9 @@ title: Home
 
 <div id="viewport"> 
     <a href="#">
-        <span><h2>
+        <span><h1>
         Georgios Mavromatidis
-        </h2>
-        <h2>
-        Georgios Mavromatidis
-        </h2>
+        </h1>
         <h2>
         Postdoctoral researcher, ETH Zürich
         </h2></span>
