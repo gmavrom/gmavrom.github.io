@@ -17,7 +17,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
+<justify>Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.</justify>
 
 <center><p>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
@@ -26,9 +26,9 @@ Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][
   <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
 </p></center>
 
-You can find information about the research I do for [my PhD][] or visit my [blog][] where I discuss things that could be related to my work or maybe not.
+<justify>You can find information about the research I do for [my PhD][] or visit my [blog][] where I discuss things that could be related to my work or maybe not.
 
-Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
+Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][]. </justify>
 
 <!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
 Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>. -->
