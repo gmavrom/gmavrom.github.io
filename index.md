@@ -5,9 +5,7 @@ title: Home
 
 <!-- <img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%"> -->
 
-<h1>Georgios Mavromatidis</h1>
-
-<img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%">
+<center><h1>Georgios Mavromatidis</h1>
 
 <h2>Postdoctoral researcher, ETH Zurich</h2>
 
@@ -16,7 +14,7 @@ title: Home
       <a href="https://www.linkedin.com/in/gmavrom" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> &nbsp; &nbsp;
       <a href="https://twitter.com/gmavrom" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp; &nbsp;
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
-</p>
+</p></center>
 
 Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
