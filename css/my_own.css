@@ -17,7 +17,7 @@
 
 
 #viewport {
-    width: 550px;
+    width: 100%;
     padding: 5px;
     position: relative;
 }
