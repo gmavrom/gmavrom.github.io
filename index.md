@@ -7,13 +7,13 @@ title: Home
 
 <div id="viewport"> 
         <a href="#">
-        <i><img src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90px" height="90px" alt="" /></i>
-        <span><h2>
+        <span><h1>
         Georgios Mavromatidis
-        </h2>
-        <h3>
+        </h1>
+        <h1>
         Postdoctoral researcher, ETH Zürich
-        </h3></span>
+        </h1></span>
+        <i><img src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="120px" height="120px" alt="" /></i>
     </a>
 </div>
 
