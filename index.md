@@ -17,9 +17,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Gruezi! I am a PhD student in the <a href="http://carmeliet.ethz.ch/">Chair of Building Physics</a> at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage. </div>
-
-Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
+<div style="text-align: justify"> Gruezi! I am a PhD student in the <a href="http://carmeliet.ethz.ch/">Chair of Building Physics</a> at <a href="http://www.ethz.ch/">ETH Zurich</a> involved in Urban Energy Systems research and this is my personal webpage. </div>
 
 <center><p>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
@@ -28,7 +26,7 @@ Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][
   <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
 </p></center>
 
-You can find information about the research I do for [my PhD][] or visit my [blog][] where I discuss things that could be related to my work or maybe not.
+<div style="text-align: justify"> You can find information about the research I do for <a href="http://mavromatidis.me/my-phd/">my PhD</a> or visit my <a href="http://mavromatidis.me/blog/">blog</a> where I discuss things that could be related to my work or maybe not. </div>
 
 Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
 
