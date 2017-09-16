@@ -7,9 +7,9 @@ title: Home
 
 <h1>Georgios Mavromatidis</h1>
 
-<h2>Postdoctoral researcher, ETH Zurich</h2>
-
 <img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%">
+
+<h2>Postdoctoral researcher, ETH Zurich</h2>
 
 <p class="social-icons">
       <a href="https:// scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap fa-2x"></i></a> &nbsp; &nbsp;
