@@ -10,9 +10,9 @@ title: Home
         <span><h1>
         Georgios Mavromatidis
         </h1>
-        <h1>
+        <h2>
         Postdoctoral researcher, ETH Zürich
-        </h1></span>
+        </h2></span>
         <i><img src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="120px" height="120px" alt="" /></i>
     </a>
 </div>
