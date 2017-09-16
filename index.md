@@ -17,7 +17,9 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Gruezi! I am a PhD student in the <a href="http://carmeliet.ethz.ch/">Chair of Building Physics</a> at <a href="http://www.ethz.ch/">ETH Zurich</a> involved in Urban Energy Systems research and this is my personal webpage. </div>
+<div style="text-align: justify"> Gruezi! I am a PhD student in the <a href="http://carmeliet.ethz.ch/">Chair of Building Physics</a> at <a href="http://www.ethz.ch/">ETH Zurich</a> involved in Urban Energy Systems research and this is my personal webpage.</div>
+
+<div></div>
 
 <center><p>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
