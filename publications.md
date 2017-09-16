@@ -16,8 +16,6 @@ title: Publications
 
 ##### 6.	**Mavromatidis, G.**, Acha, S., Shah, N. (2013) [Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms](http://dx.doi.org/10.1016/j.enbuild.2013.03.020){:target="_blank"}. _Energy and Buildings_, 62, 304-314
 
-https://doi.org/10.1016/j.egypro.2017.07.470
-
 ### Conference Proceedings
 
 ##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Designing electrically self-suffcient distributed energy systems under energy demand and solar radiation uncertainty](http://dx.doi.org/10.1016/j.egypro.2017.07.470){:target="_blank"}. In: International Conference Future Buildings & Districts, Sustainability from Nano to Urban Scale, CISBAT 2017, Lausanne, Switzerland, September 6th – 8th 2017.
