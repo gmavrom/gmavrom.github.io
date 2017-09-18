@@ -24,10 +24,11 @@ title: Home
 
 
 <center><p>
+  <a href="http://mavromatidis.me/" class="btn">About</a>
+  <a href="http://mavromatidis.me/my-phd/" class="btn">My Research</a>
+  <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
   <a href="http://mavromatidis.me/blog/" class="btn">Blog</a>
-  <a href="http://mavromatidis.me/my-phd/" class="btn">My PhD</a>
-  <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
 </p></center>
 
 <div style="text-align: justify"> You can find information about the research I do for <a href="http://mavromatidis.me/my-phd/">my PhD</a> or visit my <a href="http://mavromatidis.me/blog/">blog</a> where I discuss things that could be related to my work or maybe not. </div>
