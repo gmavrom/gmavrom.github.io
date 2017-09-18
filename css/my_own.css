@@ -6,6 +6,7 @@
   border: .1rem solid #26282d;
   border-color: #268bd2;
   border-radius: .1rem;
+  margin: .25rem .25rem;
 }
 .btn:hover,
 .btn:focus {
