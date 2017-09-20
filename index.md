@@ -17,7 +17,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Gruezi! I am a PhD student in the <a href="http://carmeliet.ethz.ch/">Chair of Building Physics</a> at <a href="http://www.ethz.ch/">ETH Zurich</a> involved in Urban Energy Systems research and this is my personal webpage.</div>
+<div style="text-align: justify"> Hi! I am Georgios! Welcome to my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
 
 <div></div>
 <p></p>
@@ -25,18 +25,14 @@ title: Home
 
 <center><p>
   <a href="http://mavromatidis.me/" class="btn">About</a>
-  <a href="http://mavromatidis.me/my-phd/" class="btn">My Research</a>
+  <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
+  <a href="http://mavromatidis.me/my-research/" class="btn">My Research</a>
   <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
   <a href="http://mavromatidis.me/blog/" class="btn">Blog</a>
 </p></center>
 
-<div style="text-align: justify"> You can find information about the research I do for <a href="http://mavromatidis.me/my-phd/">my PhD</a> or visit my <a href="http://mavromatidis.me/blog/">blog</a> where I discuss things that could be related to my work or maybe not. </div>
-
-Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
-
-<!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
-Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>. -->
+<!-- Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][]. -->
 
 [Chair of Building Physics]: http://carmeliet.ethz.ch/
 [ETH Zurich]: https://www.ethz.ch/en.html
