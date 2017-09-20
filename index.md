@@ -17,7 +17,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Hi! I am Georgios! Welcome to my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
+<div style="text-align: justify"> Hi! I am Georgios and this is my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
 
 <div></div>
 <p></p>
@@ -40,5 +40,4 @@ title: Home
 [Mechanical Engineering]: http://www.meng.auth.gr/
 [Imperial College London]: http://www.imperial.ac.uk/
 [MSc in Sustainable Energy Futures]: https://www.imperial.ac.uk/energy-futures-lab/our-msc/
-[my PhD]: http://mavromatidis.me/my-phd
 [blog]: http://mavromatidis.me/blog
