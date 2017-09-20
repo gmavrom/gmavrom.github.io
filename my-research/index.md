@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My PhD
+title: My Research
 ---
 ## PhD title: Design of distributed urban energy systems under uncertainty
 
