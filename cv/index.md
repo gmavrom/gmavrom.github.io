@@ -16,7 +16,7 @@ title: CV
 
 <center>
 <p class="social-icons">
-       <a href="mailto:georgios.mavromatidis@gmail.com"><i class="fa fa-envelope fa-2x"></i>      georgios.mavromatidis@gmail.com</a> &nbsp;
+       <a href="mailto:georgios.mavromatidis@gmail.com?subject=Say%20Hello%20to%20George"><i class="fa fa-envelope fa-2x"></i></a> &nbsp;
       <a href="https://www.linkedin.com/in/gmavrom" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> &nbsp;
       <a href="https://twitter.com/gmavrom" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp;
