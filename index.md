@@ -16,7 +16,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Hi! I am Georgios and this is my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
+<div style="text-align: justify"> Hi! I am Georgios and I am postdoctoral researcher at the <a href="https://www.linkedin.com/in/gmavrom" target="_blank"><i Chair of Building Physics </i> of <a href="https://www.linkedin.com/in/gmavrom" target="_blank"><i ETH Zurich </i> in Switzerland. This is my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
 
 <div></div>
 <p></p>
