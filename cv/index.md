@@ -26,7 +26,7 @@ title: CV
 
 <center>
   <p>
-    <a href="http://mavromatidis.me/downloads/cv.pdf/" class="btndark"><i class="fa fa-file-pdf-o"></i> Download my CV in PDF</a>
+    <a href="http://mavromatidis.me/downloads/cv.pdf" class="btndark"><i class="fa fa-file-pdf-o"></i> Download my CV in PDF</a>
   </p>
 </center>
 
