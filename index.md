@@ -7,7 +7,7 @@ title: Home
 
 <center><h1>Georgios Mavromatidis</h1>
 
-<h2>Postdoctoral researcher</h2>
+<h2>Postdoctoral researcher, ETH Zurich</h2>
 <h2>ETH Zurich</h2>
 
 <p class="social-icons">
