@@ -24,6 +24,10 @@ title: CV
 </p>
 </center>
 
+<center><p>
+  <a href="http://mavromatidis.me/downloads/cv.pdf/" class="btndark"><i class="fa fa-file-pdf-o"></i> Download my CV in PDF</a>
+</center>
+
 <!-- <div class="contact">
   <ul>
 		<li><a href="https://www.linkedin.com/in/gmavrom"><i class="fa fa-linkedin"></i> gmavrom</a></li>
