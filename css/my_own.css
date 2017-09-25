@@ -21,18 +21,20 @@
   padding: .25rem 1rem;
   font-family: "PT Sans", sans-serif;
   color: #ffffff;
-  background-color: #268bd2
-  border: .1rem solid #26282d;
+  background-color: #268bd2;
   border-color: #268bd2;
+  border: .1rem ;
   border-radius: .1rem;
   margin: .25rem .25rem;
 }
 .btndark:hover,
 .btndark:focus {
   color: #ffffff;
-  background-color: #162775;
-  border-color: #162775;
+  background-color: #195987;
+  border-color: #195987;
   text-decoration: none;
+  border-radius: .1rem;
+  margin: .25rem .25rem;
 }
 
 
