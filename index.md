@@ -28,7 +28,6 @@ title: Home
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
   <a href="http://mavromatidis.me/my-research/" class="btn">My Research</a>
   <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
-  <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
   <a href="http://mavromatidis.me/blog/" class="btn">Blog</a>
 </p></center>
 
