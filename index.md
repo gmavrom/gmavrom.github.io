@@ -23,7 +23,7 @@ title: Home
 
 
 <center><p>
-  <a href="http://mavromatidis.me/" class="btn">About</a>
+  <a href="http://mavromatidis.me/about/" class="btn">About</a>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
   <a href="http://mavromatidis.me/my-research/" class="btn">My Research</a>
   <a href="http://mavromatidis.me/publications/" class="btn">Publications</a>
