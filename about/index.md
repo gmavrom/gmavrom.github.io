@@ -4,8 +4,6 @@ title: Home
 ---
 <!-- ## A few words about me -->
 
-<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="170" style="margin: 15px 20px 20px 0px">
-
 <h1>Georgios Mavromatidis</h1>
 
 <h2>Postdoctoral researcher, ETH Zurich</h2>
@@ -16,6 +14,8 @@ title: Home
       <a href="https://twitter.com/gmavrom" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp; &nbsp;
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p>
+
+<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="120" style="margin: 15px 20px 20px 0px">
 
 Hi, my name is Georgios and I am a postdoctoral researcher at the Chair of Building Physics, ETH Zurich.
 
