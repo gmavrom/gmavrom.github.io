@@ -4,9 +4,9 @@ title: About
 ---
 ## About me
 
-<p><img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90" style="margin: 20px 20px">
+<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90" style="margin: 0px 20px 20px 0px">
 
-In this webpage, I would like to briefly describe the context and the content of my PhD research.</p>
+In this webpage, I would like to briefly describe the context and the content of my PhD research
 
 <p>My PhD’s topic is related to the need to perform a paradigm shift in the structure of future energy systems that will incorporate renewable energy sources and other forms of distributed energy systems (DES). The motivation behind such a shift is to 
 
