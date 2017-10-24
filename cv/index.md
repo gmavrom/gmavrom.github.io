@@ -44,11 +44,13 @@ title: CV
 
 ## Education
 
-<u>2013-present</u>
+<u>2013-2017</u>
 
 **PhD candidate in Chair of Building Physics**, *ETH Zürich, Switzerland*
 
-Dissertation title: *”Design of urban distributed energy systems under uncertainty”.* Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
+<a href="http://www.carmeliet.ethz.ch/research/buildings-and-urban-energy-.html" target="_blank">Urban Energy Systems</a>
+
+Dissertation title: <a href="https://doi.org/10.3929/ethz-b-000182697" target="_blank">*”Design of urban distributed energy systems under uncertainty”.*</a> Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
 
 <u>2011-2012</u>
 
@@ -66,6 +68,17 @@ Diploma Thesis: *”Investigation of the operational impact of Phase Change Mate
 ***
 
 ## Experience
+
+<u>2017-present</u>
+
+**Postdoctoral researcher**, *ETH Zurich, Switzerland*
+
+Projects involved included:
+
+* Participation in Phase II of the Swiss Competence Center for Energy Research on Future Energy Efficient Buildings
+& Districts (SCCER FEEB&D)
+* Teaching in "Building Physics", "Building Systems" and "Whole Building Simulation" courses
+* Google Summer of Code Mentor | Empa Laboratory for Urban Energy Systems - June - August 2017
 
 <u>2012-2013</u>
 
@@ -93,6 +106,8 @@ Programming: `Matlab`,`R`,`Python`
 
 Mathematical programming: `AIMMS`, `GAMS`
 
+Energy: `EnergyPlus`,`EnergyPRO`,`RETScreen`
+
 GIS: `ArcGIS`, `QGIS`
 
 ***
@@ -100,6 +115,7 @@ GIS: `ArcGIS`, `QGIS`
 ## Languages
 
 * *English*: professional proficiency
+* *German*: basic knowledge
 * *Greek*: native speaker
 
 ***
@@ -113,4 +129,4 @@ GIS: `ArcGIS`, `QGIS`
 
 ## Interests
 
-In my spare time I enjoy playing guitar or reading graphic novel and I do not enjoy trying to catch up with unread articles in my RSS feed.
+In my spare time I enjoy playing guitar or reading graphic novels. I do not enjoy trying to catch up with the unread articles in my RSS feed.
