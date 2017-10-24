@@ -16,7 +16,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
-<div style="text-align: justify"> Hi! I am Georgios and I am postdoctoral researcher at the <a href="http://carmeliet.ethz.ch/" target="_blank">Chair of Building Physics</a> at <a href="http://www.ethz.ch/" target="_blank">ETH Zurich</a> involved in <a href="http://www.carmeliet.ethz.ch/research/buildings-and-urban-energy-.html" target="_blank">Urban Energy Systems research</a>. Welcome to my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
+<div style="text-align: justify"> Hi! I am Georgios and I am postdoctoral researcher at the <a href="http://carmeliet.ethz.ch/" target="_blank">Chair of Building Physics</a> at <a href="http://www.ethz.ch/" target="_blank">ETH Zurich</a> involved in research related to <a href="http://www.carmeliet.ethz.ch/research/buildings-and-urban-energy-.html" target="_blank">Urban Energy Systems</a>. Welcome to my personal website! You can find more about me by using the sidebar or any of the buttons below.</div>
 
 <div></div>
 <p></p>
