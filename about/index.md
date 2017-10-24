@@ -2,18 +2,15 @@
 layout: page
 title: About
 ---
-## About me
+## A few words about me
 
 <img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="170" style="margin: 15px 20px 20px 0px">
 
-In this webpage, I would like to briefly describe the context and the content of my PhD research
+Dr. Georgios Mavromatidis
+Postdoctoral researcher
+Chair of Building Physics
+ETH Zurich, Switzerland
 
-<p>My PhD’s topic is related to the need to perform a paradigm shift in the structure of future energy systems that will incorporate renewable energy sources and other forms of distributed energy systems (DES). The motivation behind such a shift is to 
+My name is Georgios Mavromatidis and I am a postdoctoral researcher at the Chair of Building Physics, ETH Zurich. You can find more about my research interests by visiting 
 
-For this paradigm shift, urban environments are ideal to accommodate distributed energy sources due to high degrees of urbanization, high energy demand density and the potential for building integrated renewables.
-
-For this paradigm shift, urban environments are ideal to accommodate distributed energy sources due to high degrees of urbanization, high energy demand density and the potential for building integrated renewables.
-
-Energy modelling for the optimal design of distributed urban energy systems is an effective tool that allows the investigation of the interplay between different sources and provide insights 
-However, it is irrevocably affected by uncertainty.
-</p>
+I hold a PhD degree from 
