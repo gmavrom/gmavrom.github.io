@@ -42,9 +42,9 @@ title: Publications
 
 ##### 12.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Predicting energy consumption of a neighborhood using building performance simulation](). In: Building Simulation and Optimization conference (BSO), London, UK, June 23rd – 24th 2014.
 	
-##### 13.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Techno-economical Technology Assessment for Operational Zero Carbon Supermarkets](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+##### 13.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N. (2013) [Techno-economical Technology Assessment for Operational Zero Carbon Supermarkets](http://mavromatidis.me/downloads/ECOS_2013_Assessement_for_Operational_Zero_Carbon_Supermarkets.pdf). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
 	
-##### 14.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+##### 14.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N. (2013) [Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study](http://mavromatidis.me/downloads/ECOS_2013_Low_Cost_Energy_Saving_in_Supermarkets.pdf). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
 	
 ##### 15.	**Mavromatidis, G.**, Papadopoulos A. M. (2011) [Thermodynamic analysis of a solar operated domestic absorption refrigerator](). In: Proceedings of the National Conference on Architecture, Energy and Environment in buildings and cities (ARENEP 2011) (A.M. Papadopoulos, ed), Athens, Greece, May 3rd-4th May 2013 (in Greek).
 
