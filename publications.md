@@ -22,9 +22,9 @@ title: Publications
 
 ##### 2.	Marquant, J.F., **Mavromatidis, G.**, Evins, R., Carmeliet, J. (2017) [Comparing different temporal dimension representations in distributed energy system design models](http://dx.doi.org/10.1016/j.egypro.2017.07.403){:target="_blank"}. In: International Conference Future Buildings & Districts, Sustainability from Nano to Urban Scale, CISBAT 2017, Lausanne, Switzerland, September 6th – 8th 2017.
 
-##### 3. Orehounig, K., Landolt, J., **Mavromatidis, G.**, Omu, A., Wang, D., Wu, R. (2017) [A Method to Support Multi-Criteria Decision Making for Building Systems Update at Urban Scale](). In: 15th International Conference of the International Building Performance Simulation Association (IBPSA), BS 2017, San Francisco, CA, USA, August 7th – 9th 2017.
+##### 3. Orehounig, K., Landolt, J., **Mavromatidis, G.**, Omu, A., Wang, D., Wu, R. (2017) [A Method to Support Multi-Criteria Decision Making for Building Systems Update at Urban Scale](https://goo.gl/7WnVbx). In: 15th International Conference of the International Building Performance Simulation Association (IBPSA), BS 2017, San Francisco, CA, USA, August 7th – 9th 2017.
 
-##### 4.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Trade-offs between risk-neutral and risk-averse decision making for the design of distributed energy systems under uncertainty](). In: Proceedings of 30th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2017), San Diego, CA, USA, July 2nd – 7th 2017.
+##### 4.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Trade-offs between risk-neutral and risk-averse decision making for the design of distributed energy systems under uncertainty](https://doi.org/10.3929/ethz-b-000197933). In: Proceedings of 30th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2017), San Diego, CA, USA, July 2nd – 7th 2017.
 
 ##### 5.	Wu, R., **Mavromatidis, G.**, Orehounig, K. (2016) [Reliability Optimisation of a District Multi-Energy System](){:target="_blank"}. In: 19. Status-Seminar, ETH Zurich, Switzerland, September 8th – 9th 2016.
 
