@@ -4,7 +4,7 @@ title: About
 ---
 ## About me
 
-<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90" hspace="20">
+<p><img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90" hspace="20">
 
 In this webpage, I would like to briefly describe the context and the content of my PhD research.
 
@@ -14,4 +14,4 @@ For this paradigm shift, urban environments are ideal to accommodate distributed
 
 Energy modelling for the optimal design of distributed urban energy systems is an effective tool that allows the investigation of the interplay between different sources and provide insights 
 However, it is irrevocably affected by uncertainty.
-
+</p>
