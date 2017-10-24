@@ -48,9 +48,7 @@ title: CV
 
 **PhD candidate in Chair of Building Physics**, *ETH Zürich, Switzerland*
 
-<a href="http://www.carmeliet.ethz.ch/research/buildings-and-urban-energy-.html" target="_blank">Urban Energy Systems</a>
-
-Dissertation title: <a href="https://doi.org/10.3929/ethz-b-000182697" target="_blank">*”Design of urban distributed energy systems under uncertainty”.*</a> Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
+Dissertation title: <a href="https://doi.org/10.3929/ethz-b-000182697" target="_blank">*``Design of urban distributed energy systems under uncertainty''.*</a> Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
 
 <u>2011-2012</u>
 
