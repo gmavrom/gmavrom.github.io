@@ -76,7 +76,7 @@ Projects involved included:
 * Participation in Phase II of the Swiss Competence Center for Energy Research on Future Energy Efficient Buildings
 & Districts (SCCER FEEB&D)
 * Teaching in "Building Physics", "Building Systems" and "Whole Building Simulation" courses
-* Google Summer of Code Mentor | Empa Laboratory for Urban Energy Systems - June - August 2017
+* Google Summer of Code Mentor \ Empa Laboratory for Urban Energy Systems, June - August 2017
 
 <u>2012-2013</u>
 
