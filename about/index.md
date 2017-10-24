@@ -15,7 +15,7 @@ title: Home
       <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p>
 
-<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="120" style="margin: 15px 20px 20px 0px">
+<!-- <img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="120" style="margin: 15px 20px 20px 0px"> -->
 
 Hi, my name is Georgios and I am a postdoctoral researcher at the Chair of Building Physics, ETH Zurich.
 
