@@ -48,20 +48,20 @@ title: CV
 
 **PhD candidate in Chair of Building Physics**, *ETH Zürich, Switzerland*
 
-Dissertation title: <a href="https://doi.org/10.3929/ethz-b-000182697" target="_blank">*``Design of urban distributed energy systems under uncertainty''.*</a> Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
+Dissertation title: <a href="https://doi.org/10.3929/ethz-b-000182697" target="_blank">*"Design of urban distributed energy systems under uncertainty".*</a> Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
 
 <u>2011-2012</u>
 
 **MSc in Sustainable Energy Futures**, *Imperial College London, UK*
 
-MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms”.* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
+MSc thesis: *"Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms".* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
 
 <u>2005-2010</u>
 
 **MEng in Mechanical Engineering**, *Aristotle University of Thessaloniki, Greece*
 
 
-Diploma Thesis: *”Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators”.* Supervised by: Prof. Agis M. Papadopoulos
+Diploma Thesis: *"Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators".* Supervised by: Prof. Agis M. Papadopoulos
 
 ***
 
