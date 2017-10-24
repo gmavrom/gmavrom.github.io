@@ -4,7 +4,7 @@ title: About
 ---
 ## About me
 
-<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="19%" height="19%">
+<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="90" hspace="20">
 
 In this webpage, I would like to briefly describe the context and the content of my PhD research.
 
