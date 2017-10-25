@@ -38,7 +38,7 @@ title: Publications
 	
 ##### 10.	Orehounig, K., **Mavromatidis, G.**, Derome, D., Carmeliet, J. (2015) [Photovoltaic panels as a main component of energy sustainable communities: comparative energy analysis of a village under Swiss and South African climatic loads](http://repository.up.ac.za/handle/2263/49577){:target="_blank"}. In: Third Southern African Solar Energy Conference, SASEC 2015, Skukuza, Kruger National Park, South Africa, May 11th – 13th 2015.
 	
-##### 11.	**Mavromatidis, G.**, Evins, R., Orehounig, K., Dorer, V., Carmeliet, J. (2014) [Multi-objective optimization to simultaneously address energy hub layout, sizing and scheduling using a linear formulation](http://www.crcnetbase.com/doi/abs/10.1201/b17488-108){:target="_blank"}. In: Engineering Optimization (ENGOPT) 2014, Lisbon, Portugal, September 8th – 11th 2014.
+##### 11.	**Mavromatidis, G.**, Evins, R., Orehounig, K., Dorer, V., Carmeliet, J. (2014) [Multi-objective optimization to simultaneously address energy hub layout, sizing and scheduling using a linear formulation](https://doi.org/10.1201/b17488-108){:target="_blank"}. In: Engineering Optimization (ENGOPT) 2014, Lisbon, Portugal, September 8th – 11th 2014.
 
 ##### 12.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Predicting energy consumption of a neighborhood using building performance simulation](https://doi.org/10.3929/ethz-b-000200137). In: Building Simulation and Optimization conference (BSO), London, UK, June 23rd – 24th 2014.
 	
