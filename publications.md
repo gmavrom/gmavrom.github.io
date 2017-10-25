@@ -26,7 +26,7 @@ title: Publications
 
 ##### 4.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Trade-offs between risk-neutral and risk-averse decision making for the design of distributed energy systems under uncertainty](https://doi.org/10.3929/ethz-b-000197933). In: Proceedings of 30th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2017), San Diego, CA, USA, July 2nd – 7th 2017.
 
-##### 5.	Wu, R., **Mavromatidis, G.**, Orehounig, K. (2016) [Reliability Optimisation of a District Multi-Energy System](){:target="_blank"}. In: 19. Status-Seminar, ETH Zurich, Switzerland, September 8th – 9th 2016.
+##### 5.	Wu, R., **Mavromatidis, G.**, Orehounig, K. (2016) [Reliability Optimisation of a District Multi-Energy System](https://doi.org/10.3929/ethz-b-000200142){:target="_blank"}. In: 19. Status-Seminar, ETH Zurich, Switzerland, September 8th – 9th 2016.
 
 ##### 6.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Uncertainty and sensitivity analysis for the optimal design of distributed urban energy systems](https://vdf.ch/expanding-boundaries.html){:target="_blank"}. In: Sustainable Built Environment Conference, SBE16, Zurich, Switzerland, June 13th – 17th 2016.
 
@@ -40,7 +40,7 @@ title: Publications
 	
 ##### 11.	**Mavromatidis, G.**, Evins, R., Orehounig, K., Dorer, V., Carmeliet, J. (2014) [Multi-objective optimization to simultaneously address energy hub layout, sizing and scheduling using a linear formulation](http://www.crcnetbase.com/doi/abs/10.1201/b17488-108){:target="_blank"}. In: Engineering Optimization (ENGOPT) 2014, Lisbon, Portugal, September 8th – 11th 2014.
 
-##### 12.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Predicting energy consumption of a neighborhood using building performance simulation](). In: Building Simulation and Optimization conference (BSO), London, UK, June 23rd – 24th 2014.
+##### 12.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Predicting energy consumption of a neighborhood using building performance simulation](https://doi.org/10.3929/ethz-b-000200137). In: Building Simulation and Optimization conference (BSO), London, UK, June 23rd – 24th 2014.
 	
 ##### 13.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N. (2013) [Techno-economical Technology Assessment for Operational Zero Carbon Supermarkets](http://mavromatidis.me/downloads/ECOS_2013_Assessement_for_Operational_Zero_Carbon_Supermarkets.pdf). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
 	
