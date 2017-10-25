@@ -14,7 +14,8 @@ One year after my Mechanical Engineering studies, I moved to London, UK to pursu
 
 My search brought me to Zurich, Switzerland and to the [Chair of Building Physics][] of [ETH Zurich][] in the summer of 2013. In Zurich, over the next 3.5 years, I investigated the topic of optimal distributed energy system design under uncertainty, supervised by [Prof. Dr. Jan Carmeliet][] and [Dr. Kristina Orehounig][]. It was a long and winding road, but in 2017, I was awarded the title of Doctor of Sciences of ETH Zurich.
 
-Currently, I am a postdoctoral researcher at the Chair at ETH Zurich performing research on a variety of topics related to Building and Urban Energy Systems. If you want to learn more about my research interests, activities and outcomes, you can visit ["My research"][] page on this website or have a look at my detailed [curriculum vitae].
+Currently, I am a postdoctoral researcher at the Chair at ETH Zurich performing research on a variety of topics related to Building and Urban Energy Systems. If you want to learn more about my research interests, activities and outcomes, you can visit [My research][] page on this website or even have a look at my detailed [Curriculum Vitae][].
+
 
 [Kilkis, Greece]: https://en.wikipedia.org/wiki/Kilkis
 [Aristotle University of Thessaloniki]: http://www.auth.gr/
@@ -27,6 +28,6 @@ Currently, I am a postdoctoral researcher at the Chair at ETH Zurich performing 
 [Prof. Dr. Agis M. Papadopoulos]: http://www.meng.auth.gr/en/faculty/dep/papadopoulos.html
 [Prof. Dr. Nilay Shah]: https://www.imperial.ac.uk/people/n.shah
 [Chair of Building Physics]: http://www.carmeliet.ethz.ch/
+[My research]: http://mavromatidis.me/my-research
+[Curriculum Vitae]: http://mavromatidis.me/cv
 [ETH Zurich]: https://www.ethz.ch/en.html
-["My research"]: http://mavromatidis.me/my-research
-[curriculum vitae]: http://mavromatidis.me/cv
