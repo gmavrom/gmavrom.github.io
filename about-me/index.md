@@ -12,9 +12,9 @@ I spent my whole childhood in this little Greek town and in 2005 I moved to Thes
 
 One year after my Mechanical Engineering studies, I moved to London, UK to pursue further studies at [Imperial College London][], from where I graduated with an [MSc in Sustainable Energy Futures][] in 2012. After a brief period of working as a research assistant at the Department of Chemical Engineering under the supervision of [Prof. Dr. Nilay Shah][], I decided to look for PhD opportunities in yet a different country.
 
-My search brought me to Zurich, Switzerland and to the [Chair of Building Physics][] of [ETH Zurich][] in the summer of 2013. In Zurich, over the next 3.5 years, I investigated the topic of optimal distributed energy system design under uncertainty, supervised by [Prof. Dr. Jan Carmeliet][] and [Dr. Kristina Orehounig][]. It was a long and winding road, but in 2017, I was awarded the title of Doctor of Sciences of ETH Zurich.
+My search brought me to Zurich, Switzerland and to the [Chair of Building Physics][] at [ETH Zurich][] in the summer of 2013. In Zurich, over the next 3.5 years, I investigated the topic of optimal distributed energy system design under uncertainty, supervised by [Prof. Dr. Jan Carmeliet][] and [Dr. Kristina Orehounig][]. It was a long and winding road, but in 2017, I was awarded the title of Doctor of Sciences of ETH Zurich.
 
-Currently, I am a postdoctoral researcher at the Chair at ETH Zurich performing research on a variety of topics related to Building and Urban Energy Systems. If you want to learn more about my research interests, activities and outcomes, you can visit [My research][] page on this website or even have a look at my detailed [Curriculum Vitae][].
+Currently, I am a postdoctoral researcher at the same Chair at ETH Zurich performing research on a variety of topics related to Building and Urban Energy Systems. If you want to learn more about my research interests, activities and outcomes, you can visit [My research][] page on this website or even have a look at my detailed [Curriculum Vitae][].
 
 
 [Kilkis, Greece]: https://en.wikipedia.org/wiki/Kilkis
