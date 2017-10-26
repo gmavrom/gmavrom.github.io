@@ -26,7 +26,7 @@ The focus of my recently completed PhD dissertation is the design of distributed
 The insights gained via UA & GSA are then used to develop models for optimal decision-making under uncertainty based on techniques like Stochastic Programming and Robust Optimization. These techniques aim to identify optimal DES designs before uncertainty is revealed, while considering specific DES performance criteria against uncertainty (*e.g.* average or worst-case performance).
 
 <img src="http://mavromatidis.me/downloads/PhD_concept.png" width="100%" alt="PhD concept" title="DES design under uncertainty concept"/>
-<center><figcaption>Conceptual representation of DES design under uncertainty</figcaption></center>
+<center><font size="6">Conceptual representation of DES design under uncertainty</font></center>
 
 ### <a name="earlyres"></a>Earlier research
 
