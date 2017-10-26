@@ -45,4 +45,4 @@ The first thing I did was try to select a theme that would be aesthetically plea
 
 As I am not a software engineer, web developer or anything of that sort, the whole development process was very much based on trial-and-error and experimentation. Nonetheless, the excitement of learning something new overcame the disappointment that I could experience whenever something I was trying was not working or was messing up my website completely.
 
-The list of other academic or personal websites that I copied features from are given below:
+After many months of fiddling around with the code of my website, trying to identify the site's optimal layout and being nitpicky about the tiniest of details, the website is finally ready!
