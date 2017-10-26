@@ -45,4 +45,4 @@ The first thing I did was try to select a theme that would be aesthetically plea
 
 As I am not a software engineer, web developer or anything of that sort, the whole development process was very much based on trial-and-error and experimentation. Nonetheless, the excitement of learning something new overcame the disappointment that I could experience whenever something I was trying was not working or was messing up my website completely. I do not have any specific details to share, as there are much better resources on how to build a website using Jekyll and Github pages (*e.g.* [this one](http://joshualande.com/jekyll-github-pages-poole)).
 
-Thus, today and after many months of fiddling around with the code of my website, trying to identify the site's optimal layout and being nitpicky about the tiniest of details, the website is finally ready!
+Thus, today and after many months of fiddling around with the code of my website, trying to identify the site's optimal layout and being nitpicky about the tiniest of details, my website is finally ready!
