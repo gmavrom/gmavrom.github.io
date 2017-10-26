@@ -4,7 +4,7 @@ title: Home
 ---
 ## A few words about me
 
-<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  style="margin: 15px 20px 20px 0px; width: 30%; max-width: 30%; height: auto">
+<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  style="margin: 15px 20px 30px 0px; width: 27%; max-width: 27%; height: auto">
 
 My name is Georgios Mavromatidis and I am from [Kilkis, Greece][]. 
 
