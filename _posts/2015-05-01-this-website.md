@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Why I built this website"
+title: "Why & How I built this website"
 ---
+
+## What is the need for an academic website?
 
 Ever since I started looking at academia a bit more seriously as a career path for myself, I wanted to try and build an online presence of my own.
 
