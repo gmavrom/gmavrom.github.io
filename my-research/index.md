@@ -2,6 +2,8 @@
 layout: page
 title: My Research
 ---
+### Research interests
+
 My research revolves primarily around Building and Urban Energy Systems. More specifically, I focus on developing computational models and strategies for the transformation of buildings, urban districts and cities into efficient and sustainable energy systems. 
 
 My main research interests include:
