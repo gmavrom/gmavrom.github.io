@@ -8,7 +8,9 @@ title: Publications
 
 ##### 2.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems](){:target="_blank"}. _Under Review_
 
-##### 3.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Design of distributed urban energy systems under uncertainty: A two-stage stochastic programming approach](){:target="_blank"}. _Submitted for publication_
+##### 3.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Comparison of alternative decision-making criteria in the design of distributed energy systems under uncertainty](){:target="_blank"}. _Under Review_
+
+##### 4.	Wang, D., Landolt, J., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [CESAR: A bottom-up building stock modelling tool for Switzerland to address sustainable energy transformation strategies](){:target="_blank"}. _Under Review_
 
 
 ### Peer-reviewed journal publications
