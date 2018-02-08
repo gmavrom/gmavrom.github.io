@@ -15,7 +15,7 @@ title: Publications
 
 ### Peer-reviewed journal publications
 
-##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems](){:target="_blank"}. _Applied Energy_, accepted for publication
+##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems](http://dx.doi.org/10.1016/j.apenergy.2018.01.062){:target="_blank"}. _Applied Energy_, 214, 219-238
 
 ##### 2.	Wu, R., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Multiobjective optimisation of energy systems and building envelope retrofit in a residential community](http://dx.doi.org/10.1016/j.apenergy.2016.12.161){:target="_blank"}. _Applied Energy_, 190, 634-649
 
