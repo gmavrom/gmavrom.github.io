@@ -26,10 +26,6 @@ title: Home
 <div></div>
 <p></p>
 
-<h3>News and notes</h3>
-
-
-
 <center><p>
   <a href="http://mavromatidis.me/about-me/" class="btn">About me</a>
   <a href="http://mavromatidis.me/cv/" class="btn">CV</a>
@@ -38,7 +34,7 @@ title: Home
   <a href="http://mavromatidis.me/blog/" class="btn">Blog</a>
 </p></center>
 
-
+<h3>News and notes</h3>
 
 [Chair of Building Physics]: http://carmeliet.ethz.ch/
 [ETH Zurich]: https://www.ethz.ch/en.html
