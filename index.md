@@ -26,6 +26,9 @@ title: Home
 <div></div>
 <p></p>
 
+<h3>News and notes</h3>
+
+
 
 <center><p>
   <a href="http://mavromatidis.me/about-me/" class="btn">About me</a>
@@ -35,7 +38,7 @@ title: Home
   <a href="http://mavromatidis.me/blog/" class="btn">Blog</a>
 </p></center>
 
-<!-- Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][]. -->
+
 
 [Chair of Building Physics]: http://carmeliet.ethz.ch/
 [ETH Zurich]: https://www.ethz.ch/en.html
