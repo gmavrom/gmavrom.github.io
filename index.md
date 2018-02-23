@@ -36,6 +36,8 @@ title: Home
 
 <h3>News and notes</h3>
 
+* 22-01-2018 : Our paper titled "Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems" has been accepted for publication in Applied Energy and can be accessed <a href="http://dx.doi.org/10.1016/j.apenergy.2018.01.062">here</a>.
+
 [Chair of Building Physics]: http://carmeliet.ethz.ch/
 [ETH Zurich]: https://www.ethz.ch/en.html
 [Aristotle University of Thessaloniki]: http://www.auth.gr/
