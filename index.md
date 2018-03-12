@@ -36,6 +36,8 @@ title: Home
 
 <h3>News and notes</h3>
 
+* 12-03-2018: A paper titled "A review of uncertainty characterisation approaches for the optimal design of distributed energy systems" is now published in the journal of Renewable and Sustainable Energy Reviews and can be found here <a href="https://doi.org/10.1016/j.rser.2018.02.021A">here</a>.
+
 * 12-03-2018: Our recent paper titled "CESAR: A bottom-up building stock modelling tool for Switzerland to address sustainable energy transformation strategies" is now available in the journal of Energy and Buildings and can be accessed <a href="https://doi.org/10.1016/j.enbuild.2018.03.020">here</a>.
 
 * 22-01-2018 : Our paper titled "Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems" has been accepted for publication in Applied Energy and can be accessed <a href="http://dx.doi.org/10.1016/j.apenergy.2018.01.062">here</a>.
