@@ -6,7 +6,7 @@ title: Publications
 
 ### Peer-reviewed journal publications
 
-##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Comparison of alternative decision-making criteria in the design of distributed energy systems under uncertainty](){:target="_blank"}. Accepted for publication
+##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Comparison of alternative decision-making criteria in the design of distributed energy systems under uncertainty](http://dx.doi.org/10.1016/j.energy.2018.05.081){:target="_blank"}. _Energy_, 156, 709-724
 
 ##### 2.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. [Design of distributed energy systems under uncertainty: A two-stage stochastic programming approach](http://dx.doi.org/10.1016/j.apenergy.2018.04.019){:target="_blank"}. _Applied Energy_, 222, 932-950
 
