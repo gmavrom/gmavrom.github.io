@@ -32,7 +32,7 @@ title: Publications
 
 ##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Multi-stage optimal design of energy systems for urban districts](). In: 7th International Building Physics Conference (IBPC 2018), Syracuse, NY, USA, September 23rd – 26th 2018.
 
-##### 2.	Orehounig, K., Thrampoulidis, E., **Mavromatidis, G.**, Carmeliet, J. (2018) [A GIS based methodology to support multi-criteria decision making for the retrofitting process of residential buildings](). In: Proceedings of 31st International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2018), Guimarães, Portugal, June 17th – 21st 2018.
+##### 2.	Orehounig, K., Thrampoulidis, E., **Mavromatidis, G.**, Carmeliet, J. (2018) [A GIS based methodology to support multi-criteria decision making for the retrofitting process of residential buildings](). In: 7th International Building Physics Conference (IBPC 2018), Syracuse, NY, USA, September 23rd – 26th 2018.
 
 ##### 3.	Thrampoulidis, E., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Emulation of energy optimization models via machine learning towards retrofitting existing buildings](). In: 20. Status-Seminar «Forschen für den Bau im Kontext von Energie und Umwelt», Zurich, Switzerland, September 6th – 7th 2018.
 
