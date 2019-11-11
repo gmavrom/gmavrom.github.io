@@ -6,27 +6,33 @@ title: Publications
 
 ### Peer-reviewed journal publications
 
-##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Comparison of alternative decision-making criteria in the design of distributed energy systems under uncertainty](http://dx.doi.org/10.1016/j.energy.2018.05.081){:target="_blank"}. _Energy_, 156, 709-724
+##### 1.	Murray, P., Marquant, J., Niffeler, M. **Mavromatidis, G.**, Orehounig, K. (2019) [Optimal transformation strategies for buildings, neighbourhoods and districts to reach CO2 emission reduction targets](http://dx.doi.org/10.1016/j.energy.2018.05.081){:target="_blank"}. _Energy and Buildings_, Under Press
 
-##### 2.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Design of distributed energy systems under uncertainty: A two-stage stochastic programming approach](http://dx.doi.org/10.1016/j.apenergy.2018.04.019){:target="_blank"}. _Applied Energy_, 222, 932-950
+##### 2.	**Mavromatidis, G.**, Orehounig, K., Bollinger, L.A, Hohmann, M., Marquant, J.F., Miglani, S., Morvaj, B., Murray, P., Waibel, C., Wang, D., Carmeliet, J. (2019) [Ten questions concerning modeling of distributed multi-energy systems](http://dx.doi.org/10.1016/j.buildenv.2019.106372){:target="_blank"}. _Building and Environment_, 165, 106372
 
-##### 3.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [A review of uncertainty characterisation approaches for the optimal design of distributed energy systems](http://dx.doi.org/10.1016/j.rser.2018.02.021){:target="_blank"}. _Renewable and Sustainable Energy Reviews_, 88, 258-277
+##### 3.	Gabrielli, P., Fürer, F., **Mavromatidis, G.**, Mazzoti, M. (2018) [Robust and optimal design of multi-energy systems with seasonal storage through uncertainty analysis](http://dx.doi.org/10.1016/j.apenergy.2019.01.064){:target="_blank"}. _Applied Energy_, 238, 1192-1210
 
-##### 4.	Wang, D., Landolt, J., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [CESAR: A bottom-up building stock modelling tool for Switzerland to address sustainable energy transformation strategies](http://dx.doi.org/10.1016/j.enbuild.2018.03.020){:target="_blank"}. _Energy and Buildings_, 169, 9-26
+##### 4.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Comparison of alternative decision-making criteria in the design of distributed energy systems under uncertainty](http://dx.doi.org/10.1016/j.energy.2018.05.081){:target="_blank"}. _Energy_, 156, 709-724
 
-##### 5.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems](http://dx.doi.org/10.1016/j.apenergy.2018.01.062){:target="_blank"}. _Applied Energy_, 214, 219-238
+##### 5.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Design of distributed energy systems under uncertainty: A two-stage stochastic programming approach](http://dx.doi.org/10.1016/j.apenergy.2018.04.019){:target="_blank"}. _Applied Energy_, 222, 932-950
 
-##### 6.	Wu, R., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Multiobjective optimisation of energy systems and building envelope retrofit in a residential community](http://dx.doi.org/10.1016/j.apenergy.2016.12.161){:target="_blank"}. _Applied Energy_, 190, 634-649
+##### 6.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [A review of uncertainty characterisation approaches for the optimal design of distributed energy systems](http://dx.doi.org/10.1016/j.rser.2018.02.021){:target="_blank"}. _Renewable and Sustainable Energy Reviews_, 88, 258-277
 
-##### 7.	**Mavromatidis, G.**, Orehounig, K., Richner, P., Carmeliet, J. (2016) [A strategy for reducing CO2 emissions from buildings with the Kaya identity - A Swiss energy system analysis & a case study](http://dx.doi.org/10.1016/j.enpol.2015.10.037){:target="_blank"}. _Energy Policy_, 88, 343-354
+##### 7.	Wang, D., Landolt, J., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [CESAR: A bottom-up building stock modelling tool for Switzerland to address sustainable energy transformation strategies](http://dx.doi.org/10.1016/j.enbuild.2018.03.020){:target="_blank"}. _Energy and Buildings_, 169, 9-26
 
-##### 8.	Allegrini, J., Orehounig, K., **Mavromatidis, G.**, Ruesch, F., Dorer, V., Evins, R. (2015) [A review of modelling approaches and tools for the simulation of district-scale energy systems](http://dx.doi.org/10.1016/j.rser.2015.07.123){:target="_blank"}. _Renewable and Sustainable Energy Reviews_, 52, 1391-1404
+##### 8.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2018) [Uncertainty and global sensitivity analysis for the optimal design of distributed energy systems](http://dx.doi.org/10.1016/j.apenergy.2018.01.062){:target="_blank"}. _Applied Energy_, 214, 219-238
 
-##### 9.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Evaluation of photovoltaic integration potential in a village](http://dx.doi.org/10.1016/j.solener.2015.03.044){:target="_blank"}. _Solar Energy_, 121, 152-168
+##### 9.	Wu, R., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2017) [Multiobjective optimisation of energy systems and building envelope retrofit in a residential community](http://dx.doi.org/10.1016/j.apenergy.2016.12.161){:target="_blank"}. _Applied Energy_, 190, 634-649
 
-##### 10.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Towards an energy sustainable community: an energy system analysis for a village in Switzerland](http://dx.doi.org/10.1016/j.enbuild.2014.08.012){:target="_blank"}. _Energy and Buildings_, 84, 277-286
+##### 10.	**Mavromatidis, G.**, Orehounig, K., Richner, P., Carmeliet, J. (2016) [A strategy for reducing CO2 emissions from buildings with the Kaya identity - A Swiss energy system analysis & a case study](http://dx.doi.org/10.1016/j.enpol.2015.10.037){:target="_blank"}. _Energy Policy_, 88, 343-354
 
-##### 11.	**Mavromatidis, G.**, Acha, S., Shah, N. (2013) [Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms](http://dx.doi.org/10.1016/j.enbuild.2013.03.020){:target="_blank"}. _Energy and Buildings_, 62, 304-314
+##### 11.	Allegrini, J., Orehounig, K., **Mavromatidis, G.**, Ruesch, F., Dorer, V., Evins, R. (2015) [A review of modelling approaches and tools for the simulation of district-scale energy systems](http://dx.doi.org/10.1016/j.rser.2015.07.123){:target="_blank"}. _Renewable and Sustainable Energy Reviews_, 52, 1391-1404
+
+##### 12.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Evaluation of photovoltaic integration potential in a village](http://dx.doi.org/10.1016/j.solener.2015.03.044){:target="_blank"}. _Solar Energy_, 121, 152-168
+
+##### 13.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Towards an energy sustainable community: an energy system analysis for a village in Switzerland](http://dx.doi.org/10.1016/j.enbuild.2014.08.012){:target="_blank"}. _Energy and Buildings_, 84, 277-286
+
+##### 14.	**Mavromatidis, G.**, Acha, S., Shah, N. (2013) [Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms](http://dx.doi.org/10.1016/j.enbuild.2013.03.020){:target="_blank"}. _Energy and Buildings_, 62, 304-314
 
 ### Conference Proceedings
 
